@@ -27,7 +27,7 @@
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=olrando-ds&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=olrando-ds&show_icons=true&theme=vue)
+![Olrando's github stats](https://github-readme-stats.vercel.app/api?username=olrando-ds&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olrando-ds&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=olrando-ds&layout=compact&langs_count=6)
