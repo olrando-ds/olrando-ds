@@ -23,10 +23,6 @@
 <a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### 开源项目
-
-[![]([https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust](https://github.com/olrando-ds/h5_vol/blob/master/README.md))]([https://github.com/Minori-ty/mp4To4K-rust](https://github.com/olrando-ds/h5_vol))
-<br><br><br>
 
 ### Github 活跃度
 
