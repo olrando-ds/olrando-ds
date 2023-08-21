@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://www.olrando.cn/"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：Olrando's Blog - 记录学习点滴
+-   <a href="https://www.olrando.cn/"></a>：Olrando's Blog - 记录学习点滴
 
 ### **技术栈:**
 
